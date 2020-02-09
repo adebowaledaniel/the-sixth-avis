@@ -1,0 +1,22 @@
+{
+  "name": "the-sixth-avis",
+  "version": "1.0.0",
+  "description": "Albert is fucking nuissance",
+  "author": "EQuilibrium000",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^4.8.95",
+    "fullpage.js": "^3.0.8",
+    "nuxt": "^2.0.0",
+    "vue-fullpage.js": "^0.1.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
