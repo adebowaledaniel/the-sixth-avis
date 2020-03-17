@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar dark :clipped-left="clipped" fixed app>
+  <v-app-bar dark fixed app>
     <v-app-bar-nav-icon />
     <v-toolbar-title>The Sixth Avis</v-toolbar-title>
     <v-spacer />

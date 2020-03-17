@@ -21,8 +21,7 @@ export default {
   ** Global CSS
   */
   css: [
-    '~/assets/styles/main.css',
-    '~/node_modules/fullpage.css'
+    '~/assets/styles/main.css'
   ],
   plugins: [
   ],
